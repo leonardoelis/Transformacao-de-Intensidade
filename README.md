@@ -4,7 +4,7 @@
   <ul>
     <li>Negativação da Imagem</li>
     <li>Transformações Logarítmicas</li>
-    <li>Transformações de Potência(gama)</li>
+    <li>Transformações de Potência (gama)</li>
     <li>Alargamento de Contraste</li>
   </ul>
 </p>
